@@ -1,0 +1,7 @@
+jupyterlab
+pandas
+seaborn
+tensorflow
+scikit-learn
+imbalanced-learn
+black
