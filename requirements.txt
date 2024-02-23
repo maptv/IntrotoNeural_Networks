@@ -5,3 +5,5 @@ tensorflow
 scikit-learn
 imbalanced-learn
 black
+graphviz
+pydot
